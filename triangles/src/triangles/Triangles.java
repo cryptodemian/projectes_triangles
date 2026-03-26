@@ -92,5 +92,6 @@ public class Triangles {
  }
  public double perimetre() {
 	 return a + b;
+	 //123
  }
 }
